@@ -1,0 +1,8 @@
+numpy
+pandas
+xarray
+matplotlib
+tqdm
+wavespectra
+netCDF4
+# Optional enhanced colour maps: cmocean
